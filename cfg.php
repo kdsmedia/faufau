@@ -13,4 +13,4 @@ $cookie = "xxxx";
 
 $DGB = "0";
 $DOGE = "1";
-$LTC = "1";
+$LTC = "2";
